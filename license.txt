@@ -1,12 +1,16 @@
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+        DO WHAT YOU WANT TO PUBLIC LICENSE - DON'T BLAME ME
+                   Version 1, December 2013
+            http://tadbitstrange.com/wpl-dbm.html
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+       Copyright (C) 2013 Josh Williams [halfs13@gmail.com]
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+   Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+        DO WHAT YOU WANT TO PUBLIC LICENSE - DON'T BLAME ME
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  1. You just DO WHAT YOU WANT TO.
+  2. DON'T BLAME ME for any problems arising from the work or use of
+       the work covered by this license.
